@@ -28,3 +28,12 @@ A simple game DB
   }
   ```
   
+* Possible classID(name)
+  * mage
+  * hunter
+  * paladin
+  * warrior
+  * warlock
+  * druid
+    
+  
