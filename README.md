@@ -36,4 +36,6 @@ A simple game DB
   * warlock
   * druid
     
-  
+## Structure of the database    
+![gamersql](/gamersql.png)
+Format: ![Structure of the DB](url)
