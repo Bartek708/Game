@@ -38,4 +38,3 @@ A simple game DB
     
 ## Structure of the database    
 ![gamersql](/gamersql.png)
-Format: ![Structure of the DB](url)
