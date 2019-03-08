@@ -8,6 +8,7 @@ A simple game DB
   * /user/{ID}
   * /character
   * /character/{ID}
+  * /class
   * /class/{className}
   
 * POST
